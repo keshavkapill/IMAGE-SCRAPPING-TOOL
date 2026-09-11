@@ -9,6 +9,7 @@ Points to keep in sight before accessing the execution video are as follows:
 1. The project schema contains several folders. Among them, there is a folder named "images".
 
 <br>
+
 2. The folder "images" initially contains no media before the command is given to the image scraping tool.
 
 <br>
