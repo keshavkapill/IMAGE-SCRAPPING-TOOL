@@ -4,15 +4,14 @@
 
 Points to keep in sight before accessing the execution video are as follows:
 
-<br><br>
+<br>
 
 1. The project schema contains several folders. Among them, there is a folder named "images".
 
-<br><br>
-
+<br>
 2. The folder "images" initially contains no media before the command is given to the image scraping tool.
 
-<br><br>
+<br>
 
 3. After the command is given, a number of media files can be seen in the "images" folder. This action confirms that the tool has performed the required actions successfully.
 
