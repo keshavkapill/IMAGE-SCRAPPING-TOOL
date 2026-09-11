@@ -2,7 +2,7 @@
 
 <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; font-style: italic;">
 
-Points to keep in sight before accessing the execution video are as follows:
+🚨 Points to keep in sight before accessing the execution video are as follows:
 
 <br>
 
